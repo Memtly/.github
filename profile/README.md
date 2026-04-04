@@ -1,6 +1,6 @@
 <div align="center">
   <img src="Memtly.png" style="width: 15%;" />
-  <h1>Memtly.Enterprise</h1><br/>
+  <h1>Memtly</h1><br/>
 </div>
 
 ## About
@@ -30,7 +30,7 @@ Not all image formats are supported in browsers so although you may be able to a
 
 ## Links
 - Documentation - https://docs.memtly.com
-- GitHub - https://github.com/Memtly/Memtly.Enterprise
+- GitHub - https://github.com/Memtly
 - DockerHub - https://hub.docker.com/r/cirx08/memtly
 - BuyMeACoffee - https://buymeacoffee.com/memtly
 - GitHub Sponsors - https://github.com/sponsors/Memtly
