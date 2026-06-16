@@ -14,6 +14,10 @@ Thank you to everyone that supports this project. For anyone that hasn't yet I w
 - BuyMeACoffee - https://buymeacoffee.com/memtly
 - GitHub Sponsors - https://github.com/sponsors/Memtly
 
+<a href="https://www.buymeacoffee.com/memtly" target="_blank">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 40px; width: 150px;">
+    </a>
+    
 ## Demo
 Why not give it a try before installing? Take a look at the demo site here - https://demo.memtly.com/
 
