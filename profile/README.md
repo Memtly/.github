@@ -34,3 +34,7 @@ Not all image formats are supported in browsers so although you may be able to a
 - DockerHub - https://hub.docker.com/r/memtly/memtly
 - BuyMeACoffee - https://buymeacoffee.com/memtly
 - GitHub Sponsors - https://github.com/sponsors/Memtly
+
+- <br/>
+
+[![Star History Chart](https://api.star-history.com/chart?repos=Memtly/Memtly.Community&type=date&legend=top-left)](https://www.star-history.com/?repos=Memtly%2FMemtly.Community&type=date&legend=top-left)
